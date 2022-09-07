@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "added a description to checkout task",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
